@@ -61,7 +61,7 @@ def make_query(search_term, querytype='AdvancedKeywordQuery'):
         The specific term to search in the database. For specific query types,
         the strings that will yield valid results are limited to:
 
-        'HoldingsQuery' : A Ggeneral search of the metadata associated with PDB IDs
+        'HoldingsQuery' : A general search of the metadata associated with PDB IDs
 
         'ExpTypeQuery' : Experimental Method such as 'X-RAY', 'SOLID-STATE NMR', etc
 
